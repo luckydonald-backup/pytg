@@ -1,5 +1,7 @@
 ## PyTG
 
+[![Join the chat at https://gitter.im/luckydonald-backup/pytg](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/luckydonald-backup/pytg?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A Python package that wraps around [Telegram messenger CLI](https://github.com/vysheng/tg).
 
 ### Installation
